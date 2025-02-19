@@ -1,0 +1,1 @@
+This is my first OOP program that helps me to check my basic concept related to OOPs. This program also has basis features like User Registration & Login (With password masking), file-based Data Storage (Stores credentials securely), input Validation & Error Handling, console UI with Color Formatting.
